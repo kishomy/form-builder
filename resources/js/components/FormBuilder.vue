@@ -1,0 +1,1 @@
+<template><div><h2>Form Builder (simple)</h2><p>Use forms.create/edit blade pages after installing Laravel.</p></div></template><script>export default {name:'FormBuilder'}</script>

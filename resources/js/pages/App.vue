@@ -1,0 +1,1 @@
+<template><div><h2>Form Builder App</h2></div></template><script>export default {name:'App'}</script>

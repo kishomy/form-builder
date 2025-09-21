@@ -1,0 +1,1 @@
+@extends('layout') @section('content') <h1>Submission #{{ $submission->id }}</h1><pre>{{ json_encode($submission->data, JSON_PRETTY_PRINT) }}</pre>@endsection

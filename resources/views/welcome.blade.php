@@ -1,0 +1,1 @@
+<!doctype html><html><head><meta charset='utf-8'><title>Form Builder</title></head><body><h1>Form Builder</h1><div id='app-root'></div><script type='module' src='/resources/js/main.js'></script></body></html>

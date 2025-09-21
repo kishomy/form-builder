@@ -1,0 +1,1 @@
+@extends('layout') @section('content') <h1>Edit Form</h1> <div id='builder-root'></div> @endsection

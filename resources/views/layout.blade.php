@@ -1,0 +1,1 @@
+<!doctype html><html><head><meta charset='utf-8'><title>Form Builder</title></head><body><div>@yield('content')</div><div id='app-root'></div><script type='module' src='/resources/js/main.js'></script></body></html>

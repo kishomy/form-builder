@@ -1,0 +1,1 @@
+@extends('layout') @section('content') <h1>{{ $form->title }}</h1> <div><h2>Submissions</h2><ul>@foreach($form->submissions as $s)<li><a href='/forms/{{ $form->id }}/submissions/{{ $s->id }}'>Submission {{ $s->id }}</a></li>@endforeach</ul></div> @endsection

@@ -1,0 +1,1 @@
+@extends('layout') @section('content') <h1>Create Form</h1> <div id='builder-root'></div> <script> document.addEventListener('DOMContentLoaded',function(){ const app = Vue.createApp({ template: '<div><p>Open console based builder or use API</p></div>' }); app.mount('#builder-root'); }); </script> @endsection
